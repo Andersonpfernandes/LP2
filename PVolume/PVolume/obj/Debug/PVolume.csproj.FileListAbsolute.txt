@@ -1,9 +1,0 @@
-Q:\LP2\PVolume\PVolume\bin\Debug\PVolume.exe.config
-Q:\LP2\PVolume\PVolume\bin\Debug\PVolume.exe
-Q:\LP2\PVolume\PVolume\bin\Debug\PVolume.pdb
-Q:\LP2\PVolume\PVolume\obj\Debug\PVolume.csprojResolveAssemblyReference.cache
-Q:\LP2\PVolume\PVolume\obj\Debug\PVolume.Form1.resources
-Q:\LP2\PVolume\PVolume\obj\Debug\PVolume.Properties.Resources.resources
-Q:\LP2\PVolume\PVolume\obj\Debug\PVolume.csproj.GenerateResource.Cache
-Q:\LP2\PVolume\PVolume\obj\Debug\PVolume.exe
-Q:\LP2\PVolume\PVolume\obj\Debug\PVolume.pdb
